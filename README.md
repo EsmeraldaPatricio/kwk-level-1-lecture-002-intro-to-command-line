@@ -98,6 +98,9 @@ Remove a file that you no longer want using rm (I don't want to see eiffel_tower
 
 Remove an entire directory using `rm -rf` (remove paris directory) `rm -rf paris`
 
+#### I.S. Analogy of the squirrel
+When removing a directory (file) you need to make sure you are in the lower branch. For example if you want to get rid of cairo directory need to make sure you are in the egypt directory. You can always check by using pwd or just by looking at the file directory and noticing the removed directory disappears. 
+
 ### `mv`
 
 Accidentally place a file in the wrong directory so we need to move it. (`washington_monument.txt` in `new_york` directory needs to be moved to `washington`)
